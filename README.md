@@ -48,7 +48,7 @@ GreenLife aligns with UN SDG Goals 11, 12, and 13, striving to:
 🧠 Built By
 A team of passionate software developers and sustainability concious people as part of our final-year university project.
 We believe in tech for good and are building in public to encourage feedback, collaboration, and real impact.
-- [@Pallavi Raj](https://github.com/your-github-username)
+- [@Pallavi Raj](https://github.com/pallaviraj01)
 - [@Lishi Sah](https://github.com/sah-lishi)
 - [@Shruti Verma](https://github.com/Shruti4578)
 
