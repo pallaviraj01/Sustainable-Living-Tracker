@@ -32,7 +32,7 @@ Visualize your sustainability score, streaks, and personal impact over time.
 
 ---
 ## 📸 Demo video
-[![GreenLife App Demo](screenshots/greenlife-demo-thumbnail.png)](https://www.linkedin.com/posts/pallavi-raj-562645257_opentofeedback-devjourney-buildinpublic-activity-7354210818852286465-dIy2)
+[![GreenLife App Demo]([screenshots/greenlife-demo-thumbnail.png](https://github.com/pallaviraj01/Sustainable-Living-Tracker/blob/main/app_preview.jpg))](https://www.linkedin.com/posts/pallavi-raj-562645257_opentofeedback-devjourney-buildinpublic-activity-7354210818852286465-dIy2)
 
 ---
 ## 🌍 Vision & Impact
