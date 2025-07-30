@@ -34,7 +34,7 @@ Visualize your sustainability score, streaks, and personal impact over time.
 ## 📸 Demo video (Click the image to see video)
 
 <a href="https://www.linkedin.com/posts/pallavi-raj-562645257_opentofeedback-devjourney-buildinpublic-activity-7354210818852286465-dIy2" target="_blank">
-  <img src="https://github.com/pallaviraj01/Sustainable-Living-Tracker/blob/main/app_preview.jpg" alt="GreenLife App Demo" width="600" style="border-radius:12px;"/>
+  <img src="https://github.com/pallaviraj01/Sustainable-Living-Tracker/blob/main/app_preview.jpg" alt="GreenLife App Demo" width="400" style="border-radius:12px;"/>
 </a>
 
 ---
