@@ -1,5 +1,5 @@
 # 🌱 GreenLife: Sustainable Living Tracker App
-
+(In development) 
 **GreenLife** is a mobile-first Flutter + Firebase application that empowers individuals to live more sustainably by tracking eco-friendly habits, participating in community challenges, and earning rewards for real-world impact.  
 Built as a final-year capstone project with a vision for long-term social and environmental transformation.
 
